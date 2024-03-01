@@ -1,34 +1,6 @@
 # DVS4
 Here we collect papers for DVS/Event-based Camera from past 10 years.
 
-## 医学
-- **Pedestrian detection with high-resolution event camera**  <br>
-  2021 　	PP-RAI ( ) 　	arXiv  <br> 
-[PDF](https://arxiv.org/abs/2305.18008) <br>
-
-- **A low-power neuromorphic system for retinal implants and sensory substitution**  <br>
-  2016 　	BioCAS ( ) 　	IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/7833729) <br>
-
-- **Live demonstration: A low-power neuromorphic system for retinal implants and sensory substitution**  <br>
-  2015 　	BioCAS ( ) 　	IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/7348325) <br>
-
-## 微观生物与生命健康
-- **Work in Progress: Neuromorphic Cytometry, High-throughput Event-based flow Flow-Imaging**  <br>
-  2022 　	EBCCSP ( ) 　	IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9845595) <br>
-
-- **Self-organisation of motion features with a temporal asynchronous dynamic vision sensor**  <br>
-  2013 　	Biologically Inspired Cognitive Architectures ( ) 　	IEEE  <br> 
-[PDF](https://www.sciencedirect.com/science/article/pii/S2212683X13000455) <br>
-
-- **基于生物突触可塑性的仿生分层脉冲神经网络事件相机对象识别系统**  <br>
-  2023 　	生物医学工程学杂志 ( ) 　	IEEE  <br> 
-[PDF](https://kns.cnki.net/kcms2/article/abstract?v=xFzLC8E_KjFf2UJv80VdDi0JAVZrz23YTqWO1BQ4k3SgRMjbS7VRISa6m_xHA8mpb80S7ibMqe7YasxO6RW0D4svRsvpmUdMR4aZ6VUdMpayD5QuvXXpasGUYAinEDOkJ74XMNmPT5P9-ZKFB6UMng==&uniplatform=NZKPT&language=CHS) <br>
-
-
-
 ## 工业检测与自动化
 
 - **Real-time motor rotation frequency detection with event-based visual and spike-based auditory AER sensory integration for FPGA**  <br>
