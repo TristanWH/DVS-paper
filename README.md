@@ -26,6 +26,20 @@ Here we collect papers for DVS/Event-based Camera from past 10 years.
 
 
 
+
+
+## 宏观生物学
+- **How the Brain Achieves Real-Time Vision: A Spiking Position Perception Model**  <br>
+  2023 　	IEEE Transactions on Cognitive and Developmental Systems ( ) 　	IEEE  <br> 
+  [PDF](https://ieeexplore.ieee.org/document/10255366) <br>
+
+- **An implementation of magnocellular pathways in event-based retinomorphic systems**  <br>
+  2012 　	bioCAS( ) 　	IEEE  <br> 
+  [PDF](https://ieeexplore.ieee.org/document/6418480) <br>
+
+
+
+
 ## 工业检测与自动化
 
 - **Real-time motor rotation frequency detection with event-based visual and spike-based auditory AER sensory integration for FPGA**  <br>
@@ -172,13 +186,6 @@ Here we collect papers for DVS/Event-based Camera from past 10 years.
   [PDF](https://kns.cnki.net/kcms2/article/abstract?v=xFzLC8E_KjFxr43ZgP8OmUn0ctekrQmcu0uFLwmFwN0IPYp5g1YhxkZ-RJ9xHWA_uWD_eKASRO_RFozlYqVitWHjCrRQJj1Iw3o5KdJ3TsGlp-8FPrY5Jo2eFDIJ3iZiC_Lgqhn95yuFKz95CW9Btg==&uniplatform=NZKPT&language=CHS) <br>
 
 
-
-## 流体力学
-- **Event-based imaging velocimetry: an assessment of event-based cameras for the measurement of fluid flows**  <br>
-  2022 　   Experiments in Fluids  ( ) 　	Springer Link <br> 
-  [PDF](https://link.springer.com/article/10.1007/s00348-022-03441-6) <br>
-
-
 ## 运动健康学
 - **Comparison of Dynamic Vision Sensor-Based and IMU-based systems for ankle joint angle gait analysis**  <br>
   2016 　	ICFSP ( ) 　	IEEE  <br> 
@@ -201,21 +208,7 @@ Here we collect papers for DVS/Event-based Camera from past 10 years.
   [PDF](https://ieeexplore.ieee.org/document/8095331) <br>
 
 
-
-
-
-## 生物学
-- **How the Brain Achieves Real-Time Vision: A Spiking Position Perception Model**  <br>
-  2023 　	IEEE Transactions on Cognitive and Developmental Systems ( ) 　	IEEE  <br> 
-  [PDF](https://ieeexplore.ieee.org/document/10255366) <br>
-
-- **An implementation of magnocellular pathways in event-based retinomorphic systems**  <br>
-  2012 　	bioCAS( ) 　	IEEE  <br> 
-  [PDF](https://ieeexplore.ieee.org/document/6418480) <br>
-
-
-
-## 工程技术
+## 电子工程技术
 
 - **A Preliminary Investigation For Event Camera-Based Visible Light Communication Using The Propeller-type Rotary LED Transmitter**  <br>
   2022 　   ICC Workshops ( ) 　	IEEE  <br> 
@@ -234,9 +227,6 @@ Here we collect papers for DVS/Event-based Camera from past 10 years.
   [PDF](https://arxiv.org/abs/2109.08640) <br>
 
 
-
-## 电子工程
-
 - **Temperature and Parasitic Photocurrent Effects in Dynamic Vision Sensors**  <br>
   2017 　	IEEE Transactions on Electron Devices ( ) 　	IEEE  <br> 
   [PDF](https://ieeexplore.ieee.org/document/7962235) <br>
@@ -250,6 +240,10 @@ Here we collect papers for DVS/Event-based Camera from past 10 years.
 - **Characterization setup for event-based imagers applied to modulated light signal detection**  <br>
   2019 　	Applied Optics ( ) 　	OSA  <br> 
   [PDF](https://doi.org/10.1364/AO.58.001305) <br>
+
+  - **Event-based imaging velocimetry: an assessment of event-based cameras for the measurement of fluid flows**  <br>
+  2022 　   Experiments in Fluids  ( ) 　	Springer Link <br> 
+  [PDF](https://link.springer.com/article/10.1007/s00348-022-03441-6) <br>
 
 
 
